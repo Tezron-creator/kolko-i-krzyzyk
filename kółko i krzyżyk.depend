@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583529514 source:h:\programowanie\kó³ko i krzy¿yk\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<conio.h>
+
